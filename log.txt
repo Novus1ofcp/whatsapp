@@ -1,7 +1,21 @@
 {"version_code":9999999999,"content":"
-<p>Actualización</p>
+<!DOCTYPE html>
+<html>
 
-<l>Lista de Cambios</li>
+<head>
+    <style>html, body{background-color: #FFFFFF; color: #303030;}body{padding-top: 1%; padding-left: 2%; padding-right: 2%; font-size: 14px; font-family: 'Roboto', 'Helvetica Neue', sans-serif;}.title{display: block; width: 100%; text-align: center; font-size: 16px;}p{line-height: 2; display: block;}b{font-size: large;}point, baseup, fixed{padding: .2rem .4rem; border-radius: .25rem;}point{color: #4f6e33; background-color: #e9f3e5;}baseup{background-color: #d5dee2; color: #506874; font-weight: bold}fixed{color: #c7254e; background-color: #f9f2f4}date{font-family: monospace;}</style>
+</head>
+
+<body>
+
+<h1>ＲＥＤ ＬＩＰＳ</h1>
+    <date>NOVUS MODDER</date>
+    <hr/>
+    <p>
+
+<point style="font-weight: bold;">Exclusivo</point> Sistema de Actualización por Notificación</br>
+
+
 <fixed>Inmune</fixed> Inmune a trava de texto</br>
 <fixed>Inmune</fixed> Inmune a trava de vcf</br>
 <fixed>Inmune</fixed> Inmune a trava de Catalogo</br>
@@ -9,6 +23,20 @@
 <fixed>Inmune</fixed> Inmune a trava de Emoji, Etc.</br>
 <fixed>Agregado</fixed> Agregado Hermoso Diseño Amoled</br>
 <fixed>Agregado</fixed> Agregado Rajada Infinita Modo HIDRA</BR>
+	
+	</p>
+    <hr/> 
+	
+	
+	
+<h1>V 1.0</h1>
     <date>Javier Caceres</date>
+    <hr/>
+    <p>
+
+</body>
+
+</html>
+
 ","url":"https://youtube.com/c/NOVUSSAMURAIOFC"
 }
