@@ -1,12 +1,7 @@
 {"version_code":9999999999,"content":"
-<h1>ＲＥＤ ＬＩＰＳ</h1>
-    <date>NOVUS MODDER</date>
-    <hr/>
-    <p>
+<p>Actualización</p>
 
-<point style="font-weight: bold;">Exclusivo</point> Sistema de Actualización por Notificación</br>
-
-
+<l>Lista de Cambios</li>
 <fixed>Inmune</fixed> Inmune a trava de texto</br>
 <fixed>Inmune</fixed> Inmune a trava de vcf</br>
 <fixed>Inmune</fixed> Inmune a trava de Catalogo</br>
@@ -14,8 +9,6 @@
 <fixed>Inmune</fixed> Inmune a trava de Emoji, Etc.</br>
 <fixed>Agregado</fixed> Agregado Hermoso Diseño Amoled</br>
 <fixed>Agregado</fixed> Agregado Rajada Infinita Modo HIDRA</BR>
-	
-<h1>V 1.0</h1>
     <date>Javier Caceres</date>
 ","url":"https://youtube.com/c/NOVUSSAMURAIOFC"
 }
