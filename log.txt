@@ -1,5 +1,5 @@
 {"version_code":999999999,"content":"
-<p> NOVUS WA Update 0.21.1L</p>
+<p>NOVUS WA 0.21.1L</p>
 
 
 <li> New Base Updated to 2.21.1.13 Stable Base.</li>
